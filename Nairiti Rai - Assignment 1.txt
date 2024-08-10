@@ -1,0 +1,17 @@
+Write short notes on the following python libraries:
+
+1. Pandas: 
+	Pandas is an open-source library that is used for data manipulation and analysis. Its features include data structures, cleaning, filtering, etc. to handle tabular and time-series data. It is usually used for structured data and data processing.
+
+2. NumPy: 
+	NumPy is an open-source software library that is used to work with arrays. It has functions for mathematical operations, linear algebra, etc. and is used for numerical computing. It is the basis for other libraries like Pandas and TensorFlow.
+
+3. TensorFlow: 
+	TensorFlow is an open-source machine learning library that was developed by Google. It has a lot of features for machine learning tasks and a neural network interference. It is usually used for developing and deployment of machine learning models
+
+4. Keras: 
+	Keras is an open-source library that is used for high-level, artificial neural networks. It quickens and simplifies the process of experimentation and creation of deep neural networks. It is usually used for rapid prototyping and experimentation of deep learning models.
+5. sklearn:
+	Sklearn or Scikit-learn is an open-source machine learning library. It has features ideal for data mining and analysis and operates along with NumPy and SciPy. It is commonly used in data science.
+6. PyTorch 
+	PyTorch is an open-source machine learning library that is used for deep learning applications. It has dynamic computational graphs, strong GPU acceleration, etc. It is usually used in research and machine learning.
